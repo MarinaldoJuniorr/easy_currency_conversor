@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">easy_currency_conversor</string>
+    <string name="clean">Limpar</string>
+    <string name="subtitle_rate_value">1 %1$s = %2$.2f %3$s</string>
+
+<!--    currency -->
+    <string name="brazil_currency">BRL</string>
+    <string name="canada_currency">CAD</string>
+    <string name="china_currency">CNY</string>
+    <string name="denmark_currency">DKK</string>
+    <string name="new_zealand_currency">NZD</string>
+    <string name="poland_currency">PLN</string>
+    <string name="euro_currency">EUR</string>
+    <string name="usa_currency">USD</string>
+    <string name="uk_currency">GBP</string>
+    <string name="swiss_currency">CHF</string>
+    <string name="subtitle">Converta em tempo real sua moeda em outra moeda</string>
+    <string name="title">Conversor de Moedas</string>
+    <string name="tax_rate">Taxa indicativa de conversão</string>
+    <string name="hint">Digite o valor</string>
 </resources>
