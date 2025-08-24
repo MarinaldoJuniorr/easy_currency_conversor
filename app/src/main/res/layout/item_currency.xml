@@ -3,7 +3,8 @@
     android:padding="8dp"
     android:gravity="center_vertical"
     android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
+    android:layout_height="wrap_content"
+    android:background="@color/purple_grey">
 
     <ImageView
         android:id="@+id/img_flag"
@@ -19,5 +20,7 @@
         android:layout_marginStart="8dp"
         android:text="@string/brazil_currency"
         android:textStyle="bold"
-        android:textSize="14sp"/>
-        </LinearLayout>
+        android:textSize="14sp"
+        android:textColor="@color/white"/>
+
+</LinearLayout>

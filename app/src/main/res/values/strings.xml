@@ -18,4 +18,5 @@
     <string name="title">Conversor de Moedas</string>
     <string name="tax_rate">Taxa indicativa de conversão</string>
     <string name="hint">Digite o valor</string>
+    <string name="invert_buttom">invert_buttom</string>
 </resources>
