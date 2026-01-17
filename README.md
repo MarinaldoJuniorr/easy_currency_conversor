@@ -43,4 +43,4 @@ With Easy Currency Conversor you can:
 
 ## 📸 Screenshots
 
-<img src="Screenshots/tela1.png" width="260"/> <img src="Screenshots/tela2.png" width="260"/> <img src="Screenshots/tela3.png" width="260"/>
+<img src="Screenshots/tela 1.png" width="260"/> <img src="Screenshots/tela 2.png" width="260"/> <img src="Screenshots/tela 3.png" width="260"/>
