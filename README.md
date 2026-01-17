@@ -29,7 +29,7 @@ With Easy Currency Conversor you can:
 
 - **Language:** Kotlin
 - **UI:** XML Views
-- **Android Components:** Activities / Fragments *(as used in the project)*
+- **Android Components:** Activities
 - **Concepts Practiced:** validation, formatting, clean UI flow
 
 ---
